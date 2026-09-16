@@ -19,7 +19,7 @@ B.Tech Computer Science Engineering student at **Amity University, Noida**, inte
 **Tools:** Git, GitHub, VS Code
 
 **AppraiseX**  
-Role-based employee appraisal management system built using Flask and MySQL, including document verification, appraisal workflows, appeals and audit tracking.
+An academic employee appraisal management system currently under development, implementing role-based employee, manager, and administrator workflows using Flask and MySQL.
 
 **AI Interview Readiness Analyzer**  
 AI-based interview assessment platform integrating resume processing, speech-to-text using OpenAI Whisper, NLP analysis, technical assessment, confidence estimation and personalized feedback.
